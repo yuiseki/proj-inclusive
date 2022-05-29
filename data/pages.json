@@ -1,96 +1,80 @@
 {
-  "projectName": "scrapbox-nextjs-template",
+  "projectName": "c4j-proj-inclusive-web",
   "skip": 0,
   "limit": 100,
   "count": 4,
   "pages": [
     {
-      "id": "6292e6af15fe01001e22cd69",
+      "id": "62931f40f5b7c500233fb65f",
       "title": "index",
-      "image": "https://lh3.googleusercontent.com/a-/AOh14GhFhtfvru60DxY183KH87MOtaBIn3OEc6ZosUo_=s96-c#.png",
-      "descriptions": [
-        "[*** About]",
-        "ScrapboxプロジェクトをNext.jsでSSGしてGitHub Pagesなどで静的Webサイトとして公開できるようにするためのテンプレートです",
-        "[*** 仕様]",
-        "ピン留めされたページはナビゲーションとして表示されます",
-        "ブラケットリンク記法に対応しています"
-      ],
-      "user": {
-        "id": "5b614e70895ac50014bb24d4"
-      },
-      "pin": 9007197600946249,
-      "views": 10,
-      "linked": 0,
-      "commitId": "62931321dd60a80020c08e67",
-      "created": 1653794481,
-      "updated": 1653805857,
-      "accessed": 1653816862,
-      "snapshotCreated": 1653803325,
-      "pageRank": 0
-    },
-    {
-      "id": "6292e7a5a06b4d00232969c9",
-      "title": "Exaple",
-      "image": "https://gyazo.com/7ac86cd95a434167612140d3710618a9/raw",
-      "descriptions": [
-        "ただのテキストのセクションタイトル",
-        "一段回インデント",
-        "二段階インデント",
-        "三段階インデント",
-        "[[[]でやる太字記法]]"
-      ],
-      "user": {
-        "id": "5b614e70895ac50014bb24d4"
-      },
-      "pin": 9007197600937673,
-      "views": 1,
-      "linked": 1,
-      "commitId": "6293093cc52baf001d2b493d",
-      "created": 1653794727,
-      "updated": 1653803324,
-      "accessed": 1653803315,
-      "snapshotCreated": null,
-      "pageRank": 1
-    },
-    {
-      "id": "6293178bac4f90001ddb2cca",
-      "title": "日本語タイトル",
       "image": null,
       "descriptions": [
-        "てすと"
+        "Code for Japanのproj-inclusiveのWebサイトです"
       ],
       "user": {
         "id": "5b614e70895ac50014bb24d4"
       },
-      "pin": 9007197600933988,
+      "pin": 9007197600931993,
       "views": 0,
       "linked": 0,
-      "commitId": "6293179afc22d4001d1e9e7c",
-      "created": 1653806991,
-      "updated": 1653807002,
-      "accessed": 1653806991,
+      "commitId": "62931f6538b8e50023af2787",
+      "created": 1653808962,
+      "updated": 1653808997,
+      "accessed": 1653808962,
       "snapshotCreated": null,
       "pageRank": 0
     },
     {
-      "id": "6292e7e164115c0020a3c401",
-      "title": "yuiseki",
-      "image": "https://lh3.googleusercontent.com/a-/AOh14GhFhtfvru60DxY183KH87MOtaBIn3OEc6ZosUo_=s96-c#.png",
-      "descriptions": [
-        "[https://lh3.googleusercontent.com/a-/AOh14GhFhtfvru60DxY183KH87MOtaBIn3OEc6ZosUo_=s96-c#.png]",
-        "this is yuiseki’s page",
-        "#member"
-      ],
+      "id": "62931f6ee56319001db4586a",
+      "title": "プロジェクト一覧",
+      "image": null,
+      "descriptions": [],
       "user": {
         "id": "5b614e70895ac50014bb24d4"
       },
-      "pin": 0,
-      "views": 2,
+      "pin": 9007197600931965,
+      "views": 0,
       "linked": 0,
-      "commitId": "6292e7e2e56319001db2b362",
-      "created": 1653794785,
-      "updated": 1653794786,
-      "accessed": 1653805877,
+      "commitId": "62931f8138b8e50023af2994",
+      "created": 1653809021,
+      "updated": 1653809025,
+      "accessed": 1653809021,
+      "snapshotCreated": null,
+      "pageRank": 0
+    },
+    {
+      "id": "62931f852807ae00233e654a",
+      "title": "メディア掲載",
+      "image": null,
+      "descriptions": [],
+      "user": {
+        "id": "5b614e70895ac50014bb24d4"
+      },
+      "pin": 9007197600931953,
+      "views": 0,
+      "linked": 0,
+      "commitId": "62931f8d38b8e50023af2a5d",
+      "created": 1653809031,
+      "updated": 1653809037,
+      "accessed": 1653809031,
+      "snapshotCreated": null,
+      "pageRank": 0
+    },
+    {
+      "id": "62931fc16a4cd0001de7d735",
+      "title": "参加する",
+      "image": null,
+      "descriptions": [],
+      "user": {
+        "id": "5b614e70895ac50014bb24d4"
+      },
+      "pin": 9007197600931893,
+      "views": 0,
+      "linked": 0,
+      "commitId": "62931fc938b8e50023af2dd7",
+      "created": 1653809090,
+      "updated": 1653809097,
+      "accessed": 1653809090,
       "snapshotCreated": null,
       "pageRank": 0
     }
