@@ -28,14 +28,6 @@ export const ScrapboxPageView: React.FC<{
             </a>
           </Link>
         </div>
-        <div>
-          GitHubで使う :{" "}
-          <Link href="https://github.com/yuiseki/scrapbox-nextjs-template">
-            <a target="_blank" rel="noreferrer">
-              yuiseki/scrapbox-nextjs-template
-            </a>
-          </Link>
-        </div>
       </footer>
     </>
   );
