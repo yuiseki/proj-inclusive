@@ -2,28 +2,30 @@
   "projectName": "c4j-proj-inclusive-web",
   "skip": 0,
   "limit": 100,
-  "count": 6,
+  "count": 7,
   "pages": [
     {
       "id": "62931f40f5b7c500233fb65f",
       "title": "index",
       "image": null,
       "descriptions": [
-        "Code for Japanのproj-inclusiveのWebサイトです",
-        "テストで書き込んでみる[tkgshn.icon]",
-        "てすとてすと[yuiseki.icon]"
+        "[Code for Japan]内のプロジェクト「包摂研究会（proj-inclusive）」のWebサイトです。",
+        "[* 「包摂研究会」とは?]",
+        "包摂研究会とは、貧困拡大を防ぐための手立てを模索するため、Code for Japanのコミュニティの元に集まったシビックハッカー・企業らが集まった組織です。",
+        "経緯",
+        "コロナ禍により、職場と家庭の融合が進んだ結果としての「虐待の深刻化」や介護難のほか、孤立等が急拡大した今、格差が拡大し、差別が加速する「分断の世紀」に差し掛かろうとしています。"
       ],
       "user": {
         "id": "5b614e70895ac50014bb24d4"
       },
       "pin": 9007197600931993,
-      "views": 5,
+      "views": 9,
       "linked": 0,
-      "commitId": "629344397309170023d15b8d",
+      "commitId": "629b012643c2e9002332387d",
       "created": 1653808962,
-      "updated": 1653818425,
-      "accessed": 1653818457,
-      "snapshotCreated": 1653818016,
+      "updated": 1654325542,
+      "accessed": 1654325169,
+      "snapshotCreated": 1654325172,
       "pageRank": 0
     },
     {
@@ -63,6 +65,24 @@
       "pageRank": 0
     },
     {
+      "id": "629aff85161489001d94be8d",
+      "title": "学会発表",
+      "image": null,
+      "descriptions": [],
+      "user": {
+        "id": "5b614e70895ac50014bb24d4"
+      },
+      "pin": 9007197600415855,
+      "views": 0,
+      "linked": 0,
+      "commitId": "629aff9043c2e90023321da9",
+      "created": 1654325128,
+      "updated": 1654325136,
+      "accessed": 1654325128,
+      "snapshotCreated": null,
+      "pageRank": 0
+    },
+    {
       "id": "62931fc16a4cd0001de7d735",
       "title": "参加する",
       "image": null,
@@ -70,13 +90,13 @@
       "user": {
         "id": "5b614e70895ac50014bb24d4"
       },
-      "pin": 9007197600931893,
-      "views": 0,
+      "pin": 9007197600415847,
+      "views": 1,
       "linked": 0,
-      "commitId": "62931fc938b8e50023af2dd7",
+      "commitId": "629aff9843c2e90023321e3d",
       "created": 1653809090,
-      "updated": 1653809097,
-      "accessed": 1653809090,
+      "updated": 1654325144,
+      "accessed": 1654325140,
       "snapshotCreated": null,
       "pageRank": 0
     },
