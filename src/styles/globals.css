@@ -10,6 +10,18 @@ h1 {
   margin: 0px;
 }
 
+a {
+  text-decoration: none;
+}
+
+a[href^="http"] {
+  text-decoration: underline;
+}
+
+nav {
+  margin-top: 15px;
+}
+
 nav ul {
   padding-left: 0;
 }

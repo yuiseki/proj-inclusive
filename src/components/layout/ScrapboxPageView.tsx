@@ -11,7 +11,9 @@ export const ScrapboxPageView: React.FC<{
   return (
     <>
       <h2>{displayTitle}</h2>
-      <Lines lines={lines} />
+      <div>
+        <Lines lines={lines} />
+      </div>
       <footer>
         <div>
           Scrapboxで編集 :{" "}
