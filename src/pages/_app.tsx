@@ -16,23 +16,25 @@ function MyApp({ Component, pageProps, router }: AppProps) {
       });
     setPinnedPages(title);
   }, []);
+  console.log(router.route);
+  console.log(router.query);
   return (
     <div className="root">
       <h1>{process.env.siteName}</h1>
       <nav>
-        <ul>
+        <ul className="nav nav-pills">
           {pinnedPages.map((page) => {
             switch (page) {
               case "index":
                 return (
-                  <li key={page}>
+                  <li key={page} className="nav-item">
                     <Link href="/">
                       <a
                         role="button"
                         className={
                           router.pathname === "/"
-                            ? "btn btn-primary"
-                            : "btn btn-outline-primary"
+                            ? "nav-link active"
+                            : "nav-link"
                         }
                       >
                         Home
@@ -42,14 +44,14 @@ function MyApp({ Component, pageProps, router }: AppProps) {
                 );
               default:
                 return (
-                  <li key={page}>
+                  <li key={page} className="nav-item">
                     <Link href={"/" + page}>
                       <a
                         role="button"
                         className={
-                          router.pathname === "/" + page
-                            ? "btn btn-primary"
-                            : "btn btn-outline-primary"
+                          router.query.title === page
+                            ? "nav-link active"
+                            : "nav-link"
                         }
                       >
                         {page}
