@@ -11,7 +11,7 @@ export const ScrapboxPageView: React.FC<{
   return (
     <>
       <h2>{displayTitle}</h2>
-      <div>
+      <div className="page">
         <Lines lines={lines} />
       </div>
       <footer>

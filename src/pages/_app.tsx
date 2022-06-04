@@ -20,7 +20,7 @@ function MyApp({ Component, pageProps, router }: AppProps) {
   return (
     <div className="root">
       <h1>{process.env.siteName}</h1>
-      <nav>
+      <nav className="navbar">
         <ul className="nav nav-pills">
           {pinnedPages.map((page) => {
             switch (page) {

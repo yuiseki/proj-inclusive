@@ -9,6 +9,7 @@ export const Lines: React.FC<{ lines: Line[] }> = ({ lines }) => {
           return (
             <div
               key={idx}
+              className="line"
               style={{
                 padding: "5px " + line.indent * 20 + "px",
               }}
@@ -17,7 +18,7 @@ export const Lines: React.FC<{ lines: Line[] }> = ({ lines }) => {
             </div>
           );
         } else {
-          return <div key={idx} />;
+          return <div key={idx} className="line" />;
         }
       })}
     </>
