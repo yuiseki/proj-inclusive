@@ -16,8 +16,7 @@ function MyApp({ Component, pageProps, router }: AppProps) {
       });
     setPinnedPages(title);
   }, []);
-  console.log(router.route);
-  console.log(router.query);
+
   return (
     <div className="root">
       <h1>{process.env.siteName}</h1>
