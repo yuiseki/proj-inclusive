@@ -10,7 +10,7 @@
       "image": null,
       "descriptions": [
         "[Code for Japan]内のプロジェクト「包摂研究会（proj-inclusive）」のWebサイトです。",
-        "[* 「包摂研究会」とは?]",
+        "[*** 「包摂研究会」とは?]",
         "包摂研究会とは、貧困拡大を防ぐための手立てを模索するため、Code for Japanのコミュニティの元に集まったシビックハッカー・企業らが集まった組織です。",
         "立ち上げの経緯",
         "コロナ禍により、職場と家庭の融合が進んだ結果としての「虐待の深刻化」や介護難のほか、孤立等が急拡大した今、格差が拡大し、差別が加速する「分断の世紀」に差し掛かろうとしています。"
@@ -19,13 +19,13 @@
         "id": "5b614e70895ac50014bb24d4"
       },
       "pin": 9007197600931993,
-      "views": 10,
+      "views": 20,
       "linked": 0,
-      "commitId": "629b06c1402336001db39748",
+      "commitId": "62f73f9c1ff461001d4a9176",
       "created": 1653808962,
-      "updated": 1654326977,
-      "accessed": 1654326969,
-      "snapshotCreated": 1654325172,
+      "updated": 1660370844,
+      "accessed": 1660370993,
+      "snapshotCreated": 1660370807,
       "pageRank": 0
     },
     {
@@ -37,12 +37,12 @@
         "id": "5b614e70895ac50014bb24d4"
       },
       "pin": 9007197600931965,
-      "views": 0,
+      "views": 1,
       "linked": 0,
       "commitId": "62931f8138b8e50023af2994",
       "created": 1653809021,
       "updated": 1653809025,
-      "accessed": 1653809021,
+      "accessed": 1654349506,
       "snapshotCreated": null,
       "pageRank": 0
     },
@@ -73,12 +73,12 @@
         "id": "5b614e70895ac50014bb24d4"
       },
       "pin": 9007197600415855,
-      "views": 0,
+      "views": 1,
       "linked": 0,
       "commitId": "629aff9043c2e90023321da9",
       "created": 1654325128,
       "updated": 1654325136,
-      "accessed": 1654325128,
+      "accessed": 1654353694,
       "snapshotCreated": null,
       "pageRank": 0
     },
@@ -113,12 +113,12 @@
         "id": "5b614e70895ac50014bb24d4"
       },
       "pin": 0,
-      "views": 0,
+      "views": 1,
       "linked": 0,
       "commitId": "629344357309170023d15b74",
       "created": 1653818420,
       "updated": 1653818421,
-      "accessed": 1653818420,
+      "accessed": 1654353702,
       "snapshotCreated": null,
       "pageRank": 0
     },
@@ -135,12 +135,12 @@
         "id": "5b9f8ea76ffa88001309c5f2"
       },
       "pin": 0,
-      "views": 0,
+      "views": 1,
       "linked": 0,
       "commitId": "629342a8a06b4d00232c26ef",
       "created": 1653818024,
       "updated": 1653818024,
-      "accessed": 1653818024,
+      "accessed": 1654353705,
       "snapshotCreated": null,
       "pageRank": 0
     }
